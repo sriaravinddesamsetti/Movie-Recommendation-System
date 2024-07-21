@@ -1,4 +1,5 @@
 # Movie-Recommendation-System
+The Movie Recommendation System uses AI to provide personalized movie suggestions based on user data and movie features.
 
 # Abstract
 
